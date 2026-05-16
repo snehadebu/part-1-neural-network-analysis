@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Neurons,Learning Rate,Epochs,Accuracy
+Model 1,1,32,0.001,30,84%
+Model 2,2,64,0.001,50,88%
+Model 3,3,128,0.0001,70,91%
